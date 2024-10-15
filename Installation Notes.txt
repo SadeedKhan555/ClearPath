@@ -1,0 +1,26 @@
+Getting the digital edition of X-Plane 11 consists of two parts:
+
+    An email with your product key
+    Downloading the installer below that requires your product key
+
+Once the download is finished, unzip the file and double click the installer to run it. Your product key allows you to install X-Plane, run X-Plane, and add additional scenery later.
+2) Install the Digital Download
+
+To install X-Plane using a digital download product key, do the following:
+
+    Ensure your computer is connected to the Internet.
+    Double click the “X-Plane 11 Installer” icon to launch the installer.
+    When the installer window pops up, select the option for installing a product purchase.
+    Enter your digital download product key in the boxes on the following screen. Click “Continue.”
+    By default, X-Plane will install to the Desktop. Though it can be installed elsewhere (by clicking the “Change Destination” button), it is strongly recommended that it be left on the Desktop so that the folder can easily be found in the future.
+    Accept the user agreement on this screen. It is highly recommended that you leave the box for sending anonymous usage data checked. This allows Laminar Research to gather anonymous data to make updates to the simulator based on how you use it. Click “Continue” once again.
+    Select the scenery that should be installed. An unselected tile will appear bleached in color, while a selected tile will be a bright blue. We strongly recommend that you install only a small bit of scenery now and add more later, as the entire scenery package takes over 60 GB of disk space and a very long time to install.
+    The installer will begin displaying its progress. Note that digital download time estimates are based on your initial network speed and real install times may vary significantly.
+    When the installation completes, start the simulator and go fly!
+
+Important notes
+
+    Save the email with your product key in a safe place in case you ever need to reinstall the simulator or re-authorize your product key.
+    Treat your product key like a credit card number—keep it secret and never give out the full number to anyone.
+    Your digital download product key is good for the life of X-Plane 11 for one computer; do not use it on multiple computers or share it with other users. This may cause your key to stop working.
+    X-Plane will remember your product key when entered; you may not have to enter it again after entering it during install.
