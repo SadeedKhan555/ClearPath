@@ -11,13 +11,8 @@ local obj_path = "lib/airport/Common_Elements/Miscellaneous/Cones.obj" -- Exampl
 -- Create a new command to spawn the object
 create_command("FlyWithLua/spawn_object", "Spawn Object on Runway 25R", 
     function() -- Command handler
-        -- Set the object's position using X-Plane's datarefs
-        set("sim/flightmodel/position/latitude", runway_25R_lat)
-        set("sim/flightmodel/position/longitude", runway_25R_lon)
-        set("sim/flightmodel/position/elevation", runway_25R_elev)
-
         -- Load the object at the specified location
-        local obj_ref = load_object(obj_path)
+        local obj_ref = loadObject(obj_path, runway_25R_lat, runway_25R_lon, runway_25R_elev)
         if obj_ref then
             print("FlyWithLua: Object spawned on runway 25R at KDAB")
         else
